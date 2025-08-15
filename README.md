@@ -77,3 +77,27 @@ PhD-level pain. You've been warned.
 Computer Use (Anthropic) → https://lnkd.in/gt-xcdjf
 Agents that click buttons. Wild times.
 
+# Microsoft: MCP for Begninners
+𝗧𝗵𝗶𝘀 𝗻𝗲𝘄 𝗰𝗼𝘂𝗿𝘀𝗲 𝗶𝘀 𝗰𝗼𝘃𝗲𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝟭𝟭 𝗲𝗹𝗲𝗺𝗲𝗻𝘁𝘀: ⬇️
+1. Introduction to Model Context Protocol (MCP)
+2. MCP Core Concepts
+3. MCP Security Best Practices
+4. Build Your First MCP Server
+5. How to Build, Test & Deploy MCP Apps with Real Tools and Workflows
+6. Advanced MCP: Secure, Scalable, and Multi-Modal AI Agents
+7. How to Contribute to MCP: Tools, Docs, Code & More
+8. Lessons from MCP Early Adopters
+9. MCP Development Best Practices
+10. MCP in Action: Real-World Case Studies
+11. Build AI Agents in VS Code: 4 Hands-On Labs with MCP + AI Toolkit
+
+Bonus: There’s also a 75-page cookbook
+→ 10+ hands-on projects
+→ Production-ready code
+→ Clear visual explainers
+
+📍Course: https://lnkd.in/dVg3Utv4
+📍Cookbook: https://lnkd.in/d3cmdb-h
+
+MCP Explained with End-to-End Project by Sreemanti Dey: https://www.youtube.com/watch?v=8dzuX4Y06Io
+ 
