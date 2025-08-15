@@ -39,3 +39,41 @@ This repository contains some of my learning and tech talks on AI Agents.
 14. Microsoft AutoGen https://lnkd.in/gv5VcAik and https://lnkd.in/gdHCJEq9
 
 15. Hugging Face SmolAgents - https://lnkd.in/gNKEfaNC and https://lnkd.in/gRkhdbF2
+
+🔥 Start Here (Weekend Warriors)
+HuggingFace Agents → https://lnkd.in/g6WZGKMf
+Skip to Module 3. Trust me.
+
+Anthropic MCP → https://lnkd.in/gmi8axUA
+Their docs suck. This course doesn't.
+
+🛠️ The Build Phase
+RAG That Works → https://lnkd.in/gF2T7Bcz
+Not toy examples. Real implementations.
+
+Vector DBs (Pinecone) → https://lnkd.in/gtKFAcdK
+Because embeddings need a home.
+
+Agent Memory → https://lnkd.in/gM8bjwcx
+The difference between demos and products.
+
+⚡ Production Reality
+LLMOps → https://lnkd.in/gHR9N-pR
+aka "Why localhost betrayed you"
+
+Evaluating Agents → [https://lnkd.in/g4BPnVfY)
+Measure twice, ship once.
+
+Multi-Agent Orchestration → [https://lnkd.in/g2hjW72r)
+When one agent isn't enough chaos.
+
+🧠 Advanced Territory
+Berkeley Agent MOOC → [https://lnkd.in/gi6UNVQT)
+Academic but worth it.
+
+Advanced Agents (Berkeley) → https://lnkd.in/gr8HNPTH
+PhD-level pain. You've been warned.
+
+Computer Use (Anthropic) → https://lnkd.in/gt-xcdjf
+Agents that click buttons. Wild times.
+
