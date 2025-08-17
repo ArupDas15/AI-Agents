@@ -103,4 +103,5 @@ Bonus: There’s also a 75-page cookbook
 📍Cookbook: https://lnkd.in/d3cmdb-h
 
 MCP Explained with End-to-End Project by Sreemanti Dey: https://www.youtube.com/watch?v=8dzuX4Y06Io
+
 https://github.com/mcp-use/mcp-use 
