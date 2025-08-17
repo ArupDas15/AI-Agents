@@ -77,6 +77,9 @@ PhD-level pain. You've been warned.
 Computer Use (Anthropic) → https://lnkd.in/gt-xcdjf
 Agents that click buttons. Wild times.
 
+Book on Agentic Design Patterns:
+https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?tab=t.0#heading=h.pxcur8v2qagu
+
 # Microsoft: MCP for Begninners
 𝗧𝗵𝗶𝘀 𝗻𝗲𝘄 𝗰𝗼𝘂𝗿𝘀𝗲 𝗶𝘀 𝗰𝗼𝘃𝗲𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝟭𝟭 𝗲𝗹𝗲𝗺𝗲𝗻𝘁𝘀: ⬇️
 1. Introduction to Model Context Protocol (MCP)
@@ -100,4 +103,4 @@ Bonus: There’s also a 75-page cookbook
 📍Cookbook: https://lnkd.in/d3cmdb-h
 
 MCP Explained with End-to-End Project by Sreemanti Dey: https://www.youtube.com/watch?v=8dzuX4Y06Io
- 
+https://github.com/mcp-use/mcp-use 
